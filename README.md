@@ -1,0 +1,1 @@
+The marketing division of a mid-sized European bank ran a direct telephone campaign to sell term-deposit products. Using Power BI Desktop developed ingest, transform, model, and visualize the “Bank Marketing” dataset so that stakeholders can analyse.
